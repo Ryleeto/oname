@@ -8,6 +8,7 @@ import Content from '../components/Content';
 // }
 
 const Main = () => {
+  
   return (
     <div>
         <Layout>
